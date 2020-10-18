@@ -11,9 +11,9 @@ the java class
 用Github网站进行实验报告的撰写
 
 概架设计，在Test主类下有CPU、HaroDisk，,PC三个分类，主类从分类调取参数并设计和调用显示函数show ()， 仓建项目Experiment,并创建包one。
-创建CPU 1类，创建参数speed,并创建方法getSpeed。
-创建HardDisk 1类，创建参数amonut,并创建方法getAmount。
-创建PC类，创建属性cpu和HD,并创建方法getCPU、getHardDisk.为属性赋值，并创建显示函数show()↑在函数中利用打印函数对最终的cpu速度和硬盘容里进行显示.最后创建主类Test。
+创建CPU ，创建参数speed,并创建方法getSpeed。
+创建HardDisk，创建参数amonut,并创建方法getAmount。
+创建PC类，创建属性cpu和HD,并创建方法getCPU、getHardDisk.为属性赋值，并创建显示函数show()在函数中利用打印函数对最终的cpu速度和硬盘容里进行显示.最后创建主类Test。
 
 ##核心方法
 package pack;
